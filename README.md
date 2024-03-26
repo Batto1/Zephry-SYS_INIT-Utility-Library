@@ -1,5 +1,6 @@
 # Zephry-SYS_INIT-Utility-Library
 Library for easier utilization of Zephyr SYS_INIT functionality.
+See API Source: [Zephyr API Documentation: System Initialization](https://docs.zephyrproject.org/apidoc/latest/group__sys__init.html)
 
 Files: 
 - sys_init_utils.h
