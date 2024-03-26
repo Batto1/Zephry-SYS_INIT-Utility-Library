@@ -10,3 +10,5 @@ Files:
 Library presents functionality for;
 - Create and define a one liner SYS_INIT function and define SYS_INIT.
 - Create and define a one liner named SYS_INIT function and define SYS_INIT.
+
+Includes sample application for demonstrating some functionality of library, see main.c
